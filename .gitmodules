@@ -1,0 +1,6 @@
+[submodule "images"]
+	path = images
+	url = https://github.com/lucianosilva-github/images.git
+[submodule "G6_iris_recognition"]
+	path = G6_iris_recognition
+	url = https://github.com/lucianosilva-github/G6_iris_recognition.git
